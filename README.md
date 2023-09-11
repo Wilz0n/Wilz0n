@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/BDS4AbOyhnkdliJybi/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Javier Bernal</h1>
-    <h3 align="center">Soy un apasionado desarrollador de aplicaciones web, siempre en busca de aprender más acerca del desarrollo web. Tengo habilidades en HTML, CSS, JavaScript, Bootstrap, WordPress, React.js, Adobe Illustrator y Shopify.</h3>
+    <h3 align="center">Soy un apasionado desarrollador de aplicaciones web, siempre en busca de aprender más acerca del desarrollo web. Tengo habilidades en HTML, CSS, JavaScript, React.js, Bootstrap, y Git.</h3>
 </div>
 ---
 
