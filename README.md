@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/BDS4AbOyhnkdliJybi/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Javier Bernal</h1>
     <h3 align="center">Soy un apasionado desarrollador de aplicaciones web, siempre en busca de aprender más acerca del desarrollo web. Tengo habilidades en HTML, CSS, JavaScript, Bootstrap, WordPress, React.js, Adobe Illustrator y Shopify.</h3>
 </div>
@@ -23,5 +23,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
+
+<h4> Mi estatus:</h4>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wilz0n&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</div>
 </div>
+
+
