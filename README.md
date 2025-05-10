@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/BDS4AbOyhnkdliJybi/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Javier Bernal</h1>
-    <h3 align="center">Soy un desarrollador de aplicaciones web especializado en ##Front-end, Tengo habilidades en HTML, HTML5, CSS, Bootstrap, SASS, JavaScript, React.js, Next.js, Wordpress y Git.</h3>
+    <h3 align="center">Soy un desarrollador de aplicaciones web especializado en Front-end; Tengo habilidades en HTML, HTML5, CSS, Bootstrap, SASS, SEO, JavaScript, React.js, Next.js, Wordpress y Git.</h3>
 </div>
 
 ### 👨‍💻 About Me :
