@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 Fronted developer
+- 📝 Desarrollador Fronted developer
 
 - 📫 Mi correo es: "Fishas02@gmail.com"
 
